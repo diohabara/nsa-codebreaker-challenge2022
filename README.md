@@ -6,6 +6,7 @@
 - [A2](./a2.ipynb)
 - [B1](./b1.ipynb)
 - [B2](./b2.ipynb)
+- [6](./task6.ipynb)
 
 ## How to build
 
@@ -42,3 +43,10 @@ jupyter nbconvert --output-dir='./docs' --execute --to pdf <task>.ipynb
 ### B2
 
 - [Writeup CTF 0x00sec Web - Exercise 1](https://blog.jakubjuszczak.de/writeup-ctf-0x00sec-web-exercise-1/)
+
+### 5
+
+- [Memory Forensics of OpenSSH](http://lists.mindrot.org/pipermail/openssh-unix-dev/2014-May/032565.html)
+- [How to recover RSA private key in a coredump of ssh-agent – Sapheads HackJam 2009 Challenge 6](https://web.archive.org/web/20110831073208/https://www.vnsecurity.net/2009/10/how-to-recover-rsa-private-key-in-a-coredump-of-ssh-agent-sapheads-hackjam-2009-challenge-6/)
+- [OpenSSH ssh-agent Shielded Private Key Extraction (x86_64 Linux)](https://security.humanativaspa.it/openssh-ssh-agent-shielded-private-key-extraction-x86_64-linux/)
+- [Openssh Private Key to RSA Private Key](https://stackoverflow.com/questions/54994641/openssh-private-key-to-rsa-private-key)
