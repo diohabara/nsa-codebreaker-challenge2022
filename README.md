@@ -2,15 +2,15 @@
 
 ## Write-ups
 
-- [x] [A1](./docs/a1.pdf)
-- [x] [A2](./docs/a2.pdf)
-- [x] [B1](./docs/b1.pdf)
-- [x] [B2](./docs/b2.pdf)
-- [x] [5](./docs/task5.pdf)
-- [ ] [6](./docs/task6.pdf)
-- [ ] [7](./docs/task7.pdf)
-- [ ] [8](./docs/task8.pdf)
-- [ ] [9](./docs/task9.pdf)
+- [x] [A1.pdf](./docs/a1.pdf) | [A1.ipynb](./a1.ipynb)
+- [x] [A2.pdf](./docs/a2.pdf) | [A2.ipynb](./a2.ipynb)
+- [x] [B1.pdf](./docs/b1.pdf) | [B1.ipynb](./b1.ipynb)
+- [x] [B2.pdf](./docs/b2.pdf) | [B2.ipynb](./b2.ipynb)
+- [x] [5.pdf](./docs/task5.pdf) | [5.ipynb](./task5.ipynb)
+- [ ] [6.pdf](./docs/task6.pdf)
+- [ ] [7.pdf](./docs/task7.pdf)
+- [ ] [8.pdf](./docs/task8.pdf)
+- [ ] [9.pdf](./docs/task9.pdf)
 
 ## How to build
 
