@@ -2,11 +2,15 @@
 
 ## Write-ups
 
-- [A1](./a1.ipynb)
-- [A2](./a2.ipynb)
-- [B1](./b1.ipynb)
-- [B2](./b2.ipynb)
-- [6](./task6.ipynb)
+- [x] [A1](./docs/a1.pdf)
+- [x] [A2](./docs/a2.pdf)
+- [x] [B1](./docs/b1.pdf)
+- [x] [B2](./docs/b2.pdf)
+- [x] [5](./docs/task5.pdf)
+- [ ] [6](./docs/task6.pdf)
+- [ ] [7](./docs/task7.pdf)
+- [ ] [8](./docs/task8.pdf)
+- [ ] [9](./docs/task9.pdf)
 
 ## How to build
 
