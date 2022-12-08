@@ -7,7 +7,7 @@
 - [x] [B1.pdf](./docs/b1.pdf) | [B1.ipynb](./b1.ipynb)
 - [x] [B2.pdf](./docs/b2.pdf) | [B2.ipynb](./b2.ipynb)
 - [x] [5.pdf](./docs/task5.pdf) | [5.ipynb](./task5.ipynb)
-- [ ] [6.pdf](./docs/task6.pdf)
+- [x] [6.pdf](./docs/task6.pdf) | [6.ipynb](./task6.ipynb)
 - [ ] [7.pdf](./docs/task7.pdf)
 - [ ] [8.pdf](./docs/task8.pdf)
 - [ ] [9.pdf](./docs/task9.pdf)
