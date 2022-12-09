@@ -8,7 +8,7 @@
 - [x] [B2.pdf](./docs/b2.pdf) | [B2.ipynb](./b2.ipynb)
 - [x] [5.pdf](./docs/task5.pdf) | [5.ipynb](./task5.ipynb)
 - [x] [6.pdf](./docs/task6.pdf) | [6.ipynb](./task6.ipynb)
-- [ ] [7.pdf](./docs/task7.pdf)
+- [ ] [7.pdf](./docs/task7.pdf) | [7.ipynb](./task7.ipynb)
 - [ ] [8.pdf](./docs/task8.pdf)
 - [ ] [9.pdf](./docs/task9.pdf)
 
@@ -54,3 +54,8 @@ jupyter nbconvert --output-dir='./docs' --execute --to pdf <task>.ipynb
 - [How to recover RSA private key in a coredump of ssh-agent – Sapheads HackJam 2009 Challenge 6](https://web.archive.org/web/20110831073208/https://www.vnsecurity.net/2009/10/how-to-recover-rsa-private-key-in-a-coredump-of-ssh-agent-sapheads-hackjam-2009-challenge-6/)
 - [OpenSSH ssh-agent Shielded Private Key Extraction (x86_64 Linux)](https://security.humanativaspa.it/openssh-ssh-agent-shielded-private-key-extraction-x86_64-linux/)
 - [Openssh Private Key to RSA Private Key](https://stackoverflow.com/questions/54994641/openssh-private-key-to-rsa-private-key)
+
+### 7
+
+- [CTFのWebセキュリティにおけるSQL Injectionまとめ（MySQL/MariaDB, PostgreSQL, SQL Server)](https://blog.hamayanhamayan.com/entry/2021/12/05/115923)
+- [How SQL Injection attack works](https://guicommits.com/how-sql-injection-attack-works-with-examples/)

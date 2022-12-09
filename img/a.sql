@@ -1,0 +1,1 @@
+select convert(decimal, cast(varbinary, left(convert(varchar, "a"), 1)));
