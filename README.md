@@ -1,5 +1,7 @@
 # NSA CodeBreaker Challenge 2022
 
+FYI: [Official Write-up](https://nsa-codebreaker.org/static/resource_files/2022-wrapup.html)
+
 ## Write-ups
 
 - [x] [A1.pdf](./docs/a1.pdf) | [A1.ipynb](./a1.ipynb)
